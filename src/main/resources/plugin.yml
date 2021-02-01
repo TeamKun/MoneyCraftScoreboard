@@ -1,0 +1,7 @@
+name: MoneyCraftScoreboard
+version: ${project.version}
+main: net.kunmc.moneycraftscoreboard.MoneyCraftScoreboard
+api-version: 1.15
+depend: [ Vault,MoneyCraft ]
+authors: [ Propromp ]
+description: 経済プラグインのスコアボード表示
