@@ -1,2 +1,2 @@
 # MoneyCraftScoreboard
-This is a plugin that links Vault and Scoreboard 
+This is a plugin that links Vault and Player's Scoreboard 
