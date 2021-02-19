@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.kunmc</groupId>
-    <artifactId>MoneyCraftScoreboard</artifactId>
+    <artifactId>VaultScoreboard</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>MoneyCraftScoreboard</name>
+    <name>VaultScoreboard</name>
 
-    <description>経済プラグインのスコアボード表示</description>
+    <description>vault x scoreboard</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

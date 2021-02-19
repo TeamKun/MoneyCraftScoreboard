@@ -1,2 +1,2 @@
-part:
-  kein: true
+# display name of scoreboard(default is "yen" in japanese)
+displayname: "円"
